@@ -10,6 +10,8 @@ I am an Aspiring Software Engineer with a heavy passion for technology and their
 
 ● C++
 
+● C
+
 ## 🔧 Skills
 
 ● 👂 Active Listener; Willing to hear out ways in which I can improve my work
