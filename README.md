@@ -1,6 +1,5 @@
 ![](images/Logo.png)
 
-
 # Harry Clark
 
 My name is Harry Clark!
