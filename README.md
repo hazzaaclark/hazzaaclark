@@ -3,7 +3,7 @@
 # Harry Clark
 
 My name is Harry Clark!
-I am an Aspiring Software Engineer with a heavy passion for technology and their advancements.
+I am an Aspiring Computer Scientist with a heavy passion for technology and their advancements.
 
 ## 🖥️ Programming Experience
 ● C#
