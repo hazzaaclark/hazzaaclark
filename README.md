@@ -10,7 +10,7 @@ I am an Aspiring Computer Scientist with a heavy passion for technology and thei
 
 ● C
 
-● C#
+● C# / JS
 
 ## 🔧 Skills
 
