@@ -12,6 +12,12 @@ I am an Aspiring Computer Scientist with a heavy passion for technology and thei
 
 ● C# / JS
 
+## 🧬 Currently Experimenting with
+
+● .NET Web Frameworks and REST API's
+
+● Embedded Systems and EPPROMS
+
 ## 🔧 Skills
 
 ● 👂 Active Listener; Willing to hear out ways in which I can improve my work
