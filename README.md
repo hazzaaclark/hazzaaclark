@@ -16,7 +16,7 @@ I am an Aspiring Computer Scientist with a heavy passion for technology and thei
 
 ● .NET Web Frameworks and REST API's
 
-● Embedded Systems and EPPROMS
+● Embedded Systems and EEPROMS
 
 ## 🔧 Skills
 
