@@ -34,6 +34,6 @@ I am an Aspiring Computer Scientist with a heavy passion for technology and thei
 
 ## 🏆 Achievements
 
-● Student Representative for Game Design @ NSCG
+● Student Representative for Game Design @ NSCG: Stafford College (2020 - 2022)
 
 ● Video Editor working for a YouTube channel with 20k+ Subscribers
