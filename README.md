@@ -14,7 +14,7 @@ I am an Aspiring Computer Scientist with a heavy passion for technology and thei
 
 ## 🧬 Currently Experimenting with
 
-● .NET Web Frameworks and REST API's
+● Command line-based Systems and Algorithms
 
 ● Embedded Systems and EEPROMS
 
