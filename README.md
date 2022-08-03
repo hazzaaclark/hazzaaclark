@@ -14,8 +14,6 @@ I am an Aspiring Computer Scientist with a heavy passion for technology and thei
 
 ## 🧬 Currently Experimenting with
 
-● Command line-based Systems and Algorithms
-
 ● Embedded Systems and EEPROMS
 
 ## 🔧 Skills
