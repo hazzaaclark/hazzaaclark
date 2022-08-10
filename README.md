@@ -1,4 +1,4 @@
-![](images/harry_pinball.png)
+![](images/Logo.png)
 
 # Harry Clark
 
