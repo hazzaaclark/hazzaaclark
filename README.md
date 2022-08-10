@@ -1,4 +1,4 @@
-![](images/Logo.png)
+![](images/hazzalogo.png)
 
 # Harry Clark
 
