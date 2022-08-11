@@ -4,6 +4,7 @@
 
 My name is Harry Clark!
 I am an Aspiring Computer Scientist with a heavy passion for technology and their advancements.
+I have had a massive infactuation for Computer Architecture and Low Level Programming
 
 ## 🖥️ Programming Experience
 ● C++
