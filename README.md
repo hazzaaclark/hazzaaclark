@@ -8,11 +8,11 @@ I am an Aspiring Computer Scientist with a heavy passion for technology and thei
 I have had a massive infactuation for Computer Architecture and Low Level Programming
 
 ## 🖥️ Programming Experience
-● C++
+● C / C++
 
-● C
+● C#
 
-● C# / JS
+● x86_64 / 68K ASM
 
 ## 🧬 Currently Experimenting with
 
