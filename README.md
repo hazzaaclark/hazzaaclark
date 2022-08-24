@@ -14,6 +14,8 @@ I have had a massive infactuation for Computer Architecture and Low Level Progra
 
 ● x86_64 / 68K ASM
 
+● Homebrew (Nintendo Wii)
+
 ## 🧬 Currently Experimenting with
 
 ● Embedded Systems and EEPROMS
