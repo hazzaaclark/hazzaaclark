@@ -41,3 +41,5 @@ Currently, I am studying Computer Science at Coventry University
 ● Student Representative for Game Design @ NSCG: Stafford College (2020 - 2022)
 
 ● Video Editor working for a YouTube channel with 20k+ Subscribers
+
+● Participated in Coventry University Takeover GameJam 2022
