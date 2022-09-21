@@ -42,4 +42,4 @@ Currently, I am studying Computer Science at Coventry University
 
 ● Video Editor working for a YouTube channel with 20k+ Subscribers
 
-● Participated in Coventry University Takeover GameJam 2022
+● Participated in Coventry University Takeover GameJam 2022 (contributed as Programmer and 3D Artist)
