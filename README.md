@@ -7,7 +7,7 @@ I am an Aspiring Computer Scientist with a heavy passion for technology and thei
 
 I have a massive infactuation for Computer Architecture and Low Level Programming.
 
-Currently, I am studying Interactive Media at Coventry University
+Currently, I am studying Computer Science at Coventry University
 
 ## 🖥️ Programming Experience
 ● C / C++
