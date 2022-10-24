@@ -1,5 +1,4 @@
-![hazza new game logo](https://user-images.githubusercontent.com/107435091/192368726-36b72be3-784e-438f-aecd-311cf27fc007.png)
-
+![Untitled-1](https://user-images.githubusercontent.com/107435091/197646840-b9a70d9f-3607-4f9e-82dc-94be50cd9cc1.png)
 
 # About Me!
 
