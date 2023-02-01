@@ -3,5 +3,6 @@
 <p align="center"><br>
   <samp>
     「 Computer Science Masters of Science Candidate @ 🦅 <b>Coventry University</b> 」<br>
+    ʟᴏᴠᴇʀ ᴏꜰ ᴀʟʟ ᴛʜɪɴɢꜱ ʟᴏᴡ ʟᴇᴠᴇʟ
   </samp>
 </p>
