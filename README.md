@@ -13,9 +13,12 @@ I am currently working on my [SEGA Mega Drive/Genesis emulator](https://github.c
 which tackles the complexities of emulating the CISC Architecure
 that fashioned that console. 
 
+As well as reverse engineering various video games such as [The Simpsons: Hit and Run](https://github.com/hazzaaclark/donut-rpc)
+and [Mario Kart Wii](https://github.com/hazzaaclark/mkw-data). All with the ambition of creating modifications to those pre-existing games.
+
 # ⚡️ Experience:
 
-Given that I'm an aspiring Computer Architect, my profiency lies in C/C++. I highly leverage C++ for my Low Level endeavours 
+I'm an aspiring Computer Architect, as such my profiency lies in C/C++. I highly leverage C++ for my Low Level endeavours 
 which involve Reverse Engineering, creating Low Level Modifcations and infrastructures using that RE knowledge.
 
 As well as creating software that tackle the complexities of emulating or modifying Computer Architecures.
