@@ -7,11 +7,18 @@
   </samp>
 </p>
 
+# 🔭 Current Projects:
+
+I am currently working on my [SEGA Mega Drive/Genesis emulator](https://github.com/hazzaaclark/MD68000)
+which tackles the complexities of emulating the CISC Architecure
+that fashioned that console. 
 
 # ⚡️ Experience:
 
 Given that I'm an aspiring Computer Architect, my profiency lies in C/C++. I highly leverage C++ for my Low Level endeavours 
-which involve Reverse Engineering creating Low Level Modifcations and infrastructures using that RE knowledge.
+which involve Reverse Engineering, creating Low Level Modifcations and infrastructures using that RE knowledge.
+
+As well as creating software that tackle the complexities of emulating or modifying Computer Architecures.
 
 I have been using C++ for no less than 1 year and I like to say that I have learnt a lot during that time.
 As I continue to move forward with prosperity for my future projects and expansion of my repitoure.
