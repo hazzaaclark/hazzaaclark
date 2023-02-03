@@ -6,3 +6,17 @@
     ʟᴏᴠᴇʀ ᴏꜰ ᴀʟʟ ᴛʜɪɴɢꜱ ʟᴏᴡ ʟᴇᴠᴇʟ
   </samp>
 </p>
+
+
+# ⚡️ Experience:
+
+Given that I'm an aspiring Computer Architect, my profiency lies in C/C++. I highly leverage C++ for my Low Level endeavours 
+which involve Reverse Engineering creating Low Level Modifcations and infrastructures using that RE knowledge.
+
+I have been using C++ for no less than 1 year and I like to say that I have learnt a lot during that time.
+As I continue to move forward with prosperity for my future projects and expansion of my repitoure.
+
+# 🏆 Achievements:
+
+• Part of the Formula One Silverstone Team as an Engineer (2023 - Present)
+• Game Design Course Representative (2020 - 2022)
