@@ -16,6 +16,10 @@ that fashioned that console.
 On top of reverse engineering various video games such as [The Simpsons: Hit and Run](https://github.com/hazzaaclark/donut-rpc)
 and [Mario Kart Wii](https://github.com/hazzaaclark/mkw-data). All with the ambition of creating modifications to those pre-existing games.
 
+As of recently, I have tackled the endeavour of Homebrew Modifications to the Nintendo Wii console.
+Upon becoming enamored with the underlying architecture of that console, I am currently in the process of making
+a native port of [The Simpsons: Hit and Run](https://github.com/hazzaaclark/donut_wii) for the Nintendo Wii.
+
 # ⚡️ Experience:
 
 I'm an aspiring Computer Architect, as such my profiency lies in C/C++. I highly leverage C++ for my Low Level endeavours 
