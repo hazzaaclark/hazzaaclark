@@ -13,7 +13,7 @@ I am currently working on my [SEGA Mega Drive/Genesis emulator](https://github.c
 which tackles the complexities of emulating the CISC Architecure
 that fashioned that console. 
 
-On top of reverse engineering various video games such as [The Simpsons: Hit and Run](https://github.com/hazzaaclark/donut-rpc)
+On top of reverse engineering various video games such as [The Simpsons: Hit and Run](https://github.com/hazzaaclark/donut_wii)
 and [Mario Kart Wii](https://github.com/hazzaaclark/mkw-data). All with the ambition of creating modifications to those pre-existing games.
 
 As of recently, I have tackled the endeavour of Homebrew Modifications to the Nintendo Wii console.
