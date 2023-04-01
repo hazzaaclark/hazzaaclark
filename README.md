@@ -34,6 +34,6 @@ I continue to move forward with prosperity for my future projects and expansion 
 
 # 🏆 Achievements:
 
-• Part of the Formula One Silverstone Team as an Engineer (2023 - Present)
+• Part of the Formula One Silverstone Team as an Engineer (2023)
 
 • Game Design Course Representative @ Newcastle & Stafford College Groups (2020 - 2022)
