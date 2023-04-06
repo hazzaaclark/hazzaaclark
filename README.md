@@ -21,6 +21,9 @@ As of recently, I have tackled the endeavour of Homebrew Modifications to the Ni
 Upon becoming enamored with the underlying architecture of that console, I am currently in the process of making
 a native port of [The Simpsons: Hit and Run](https://github.com/hazzaaclark/donut_wii) for the Nintendo Wii.
 
+In addition, I am continuing to seek the possibilities of Embedded Systems & Computer Architecture through
+making a [SEGA Dreamcast](https://github.com/hazzaaclark/DreamPi)  extension for the Raspberry Pi Pico; providing the functionality of the controller on PC
+
 # ⚡️ Experience:
 
 I'm an aspiring Computer Architect, as such my profiency lies in C/C++. I highly leverage C++ for my Low Level endeavours 
