@@ -17,9 +17,9 @@ that fashioned that console.
 On top of reverse engineering various video games such as [The Simpsons: Hit and Run](https://github.com/hazzaaclark/donut_wii)
 and [Mario Kart Wii](https://github.com/hazzaaclark/mkw-data). All with the ambition of creating modifications to those pre-existing games.
 
-As of recently, I have tackled the endeavour of Homebrew Modifications to the Nintendo Wii console.
-Upon becoming enamored with the underlying architecture of that console, I am currently in the process of making
-a native port of [The Simpsons: Hit and Run](https://github.com/hazzaaclark/donut_wii) for the Nintendo Wii.
+As of recently, I have tackled the endeavour of Modifications to old Games consoles such as SEGA's Consoles
+as well as the Nintendo Wii console.
+Upon becoming enamored with the underlying architecture of that console, I am working on a foray of Assembly projects to pursue this passion.
 
 In addition, I am continuing to seek the possibilities of Embedded Systems & Computer Architecture through
 making a [SEGA Dreamcast](https://github.com/hazzaaclark/DreamPi)  extension for the Raspberry Pi Pico; providing the functionality of the controller on PC
