@@ -1,6 +1,4 @@
-![mjm logo](https://user-images.githubusercontent.com/107435091/234094497-1d1f7d2e-d554-4d6f-a18d-976ba9f5b0b4.png)
-
-
+![harry](https://user-images.githubusercontent.com/107435091/222869560-e5fa2295-43ee-4fa5-9fbe-89614cb2d5b5.png)
 <h3 align="center"><samp>Hello! I am <b><a rel="nofollow noopener noreferrer" target="_blank"> Harry Clark</a></b></samp></h3>
 <p align="center"><br>
   <samp>
