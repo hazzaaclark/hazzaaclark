@@ -1,4 +1,4 @@
-![harry](https://user-images.githubusercontent.com/107435091/222869560-e5fa2295-43ee-4fa5-9fbe-89614cb2d5b5.png)
+![sonioc rush](https://github.com/hazzaaclark/hazzaaclark/assets/107435091/ee7c05c4-52d2-49b0-8b38-af2bef8cdf94)
 <h3 align="center"><samp>Hello! I am <b><a rel="nofollow noopener noreferrer" target="_blank"> Harry Clark</a></b></samp></h3>
 <p align="center"><br>
   <samp>
