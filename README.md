@@ -25,13 +25,14 @@ making a [SEGA Dreamcast](https://github.com/hazzaaclark/DreamPi)  extension for
 
 # ⚡️ Experience:
 
-I'm an aspiring Computer Architect looking to become a Doctor in my relevant field, as such my profiency lies in C/C++. I highly leverage C++ for my Low Level endeavours 
+I'm an aspiring Computer Architect looking to become a Doctor in my relevant field, as such my profiency lies in C/C++. 
+I highly leverage C++ for my Low Level endeavours 
 which involve Reverse Engineering, creating Low Level Modifcations and infrastructures using that RE knowledge.
 
 As well as creating software that tackle the complexities of emulating or modifying Computer Architecures.
 
-I have been using C++ for 1 year and I have gained a adequate level of knowledge during that time.
-Expanding my codebase to various other languages on the Low Level of the spectrum on top of exploring build automation tools and frameworks.
+I have been using C++ for 1 year and I have gained an adequate level of knowledge during that time.
+Expanding my codebase to various other languages on the Low Level end of the spectrum on top of exploring build automation tools and frameworks.
 I continue to move forward with prosperity for my future projects and expansion of my repitoure.
 
 # 🏆 Achievements:
