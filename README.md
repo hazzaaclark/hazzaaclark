@@ -21,7 +21,8 @@ as well as the Nintendo Wii console.
 Upon becoming enamored with the underlying architecture of that console, I am working on a foray of Assembly projects to pursue this passion.
 
 In addition, I am continuing to seek the possibilities of Embedded Systems & Computer Architecture through
-making a [SEGA Dreamcast](https://github.com/hazzaaclark/DreamPi)  extension for the Raspberry Pi Pico; providing the functionality of the controller on PC
+making a [SEGA Dreamcast](https://github.com/hazzaaclark/DreamPi). As well as working on various tools associated with the SEGA Mega Drive
+to help with Reverse Engineering and undergoing my perpetual efforts to gain a great skillset in Computer Architecture.
 
 # ⚡️ Experience:
 
