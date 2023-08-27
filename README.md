@@ -35,8 +35,10 @@ I continue to move forward with prosperity for my future projects and expansion 
 
 # 🏆 Achievements:
 
-• Part of the Formula One Silverstone Team as an Engineer (2023)
+- Assistant Reverse Engineer for the Sonic Heroes PC Decomp (2023 - Present)
 
-• Game Design Course Representative @ Newcastle & Stafford College Groups (2020 - 2022)
+- Part of the Formula One Silverstone Team as an Engineer (2023)
 
-• Edited over 100+ videos as Freelance; garnering over 1 million views (2020 - Present)
+- Game Design Course Representative @ Newcastle & Stafford College Groups (2020 - 2022)
+
+- Edited over 100+ videos as Freelance; garnering over 1 million views (2020 - Present)
