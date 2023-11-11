@@ -14,7 +14,7 @@ which tackles the complexities of emulating the CISC Architecure
 that fashioned that console. 
 
 On top of reverse engineering various video games such as 
-[Mario Kart Wii](https://github.com/hazzaaclark/revo) [Sonic Heroes](https://github.com/hazzaaclark/HEROES_WUP28)
+[Mario Kart Wii](https://github.com/hazzaaclark/revo) & [Sonic Heroes](https://github.com/hazzaaclark/HEROES_WUP28)
 
 Furthermore, making a Reverse Engineering toolkit using Java that looks at the parsing of contents of Dreamcast ROMS for [Ghidra](https://github.com/hazzaaclark/gdiGhidra)
 
