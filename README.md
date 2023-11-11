@@ -14,16 +14,13 @@ which tackles the complexities of emulating the CISC Architecure
 that fashioned that console. 
 
 On top of reverse engineering various video games such as 
-[Mario Kart Wii](https://github.com/hazzaaclark/revo). All with the ambition of creating modifications to those pre-existing games.
-
-As of recently, I have become enamoured by Reverse Engineering on top of creating the toolkits necessary to make such technical advancemeents.
-One of my many projects at the moment consist of making a Driver plugin for the Gamecube Adapater for the PC version of [Sonic Heroes](https://github.com/hazzaaclark/HEROES_WUP28)
+[Mario Kart Wii](https://github.com/hazzaaclark/revo) [Sonic Heroes](https://github.com/hazzaaclark/HEROES_WUP28)
 
 Furthermore, making a Reverse Engineering toolkit using Java that looks at the parsing of contents of Dreamcast ROMS for [Ghidra](https://github.com/hazzaaclark/gdiGhidra)
 
 # ⚡️ Experience:
 
-I'm an aspiring Computer Architect looking to become a Doctor in my relevant field, as such my profiency lies in C/C++. 
+I'm an aspiring Computer Architect looking to become a Doctor in my relevant field, as such my profiency lies in C/C++ and ASM. 
 I highly leverage C/ASM for my Low Level endeavours 
 which involve Reverse Engineering, creating Low Level Modifcations and infrastructures using that RE knowledge.
 
