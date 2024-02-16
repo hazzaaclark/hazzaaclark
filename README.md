@@ -39,6 +39,3 @@ I continue to move forward with prosperity for my future projects and expansion 
 - Edited over 100+ videos as Freelance; garnering over 1 million views (2020 - 2023)
 
 - Part of the Formula One Silverstone Team as an Engineer (2022)
-
-- Game Design Course Representative @ Newcastle & Stafford College Groups (2020 - 2022)
-
