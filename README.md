@@ -7,28 +7,11 @@
   </samp>
 </p>
 
-# 🔭 Current Projects:
-
-I am currently working on my [SEGA Mega Drive/Genesis emulator](https://github.com/hazzaaclark/MD68000)
-which tackles the complexities of emulating the CISC Architecure
-that fashioned that console. 
-
-On top of reverse engineering various video games such as 
-[Mario Kart Wii](https://github.com/hazzaaclark/revo) & [Michael Jackson's Moonwalker](https://github.com/hazzaaclark/MJM)
-
-Furthermore, making a Reverse Engineering toolkit using Java that looks at the parsing of contents of Dreamcast ROMS for [Ghidra](https://github.com/hazzaaclark/gdiGhidra)
-
-# ⚡️ Experience:
+# About Me:
 
 I'm an aspiring Computer Architect looking to become a Doctor in my relevant field, as such my profiency lies in C/C++ and ASM. 
 I highly leverage C/ASM for my Low Level endeavours 
 which involve Reverse Engineering, creating Low Level Modifcations and infrastructures using that RE knowledge.
-
-I have been using C/C++, ASM for 1 year and I have gained an adequate level of knowledge during that time.
-During this time, I have expanded my repitoure in terms of which problems I am able to solve and which technical skills I can demonstrate by learning Java
-
-Expanding my codebase to various other languages on the Low Level end of the spectrum on top of exploring build automation tools and frameworks.
-I continue to move forward with prosperity for my future projects and expansion of my repitoure.
 
 # 🏆 Achievements:
 
