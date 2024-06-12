@@ -1,4 +1,3 @@
-![harry adventure](https://github.com/hazzaaclark/hazzaaclark/assets/107435091/5a14aa97-1329-4448-8fe8-fd0c8195ebcb)
 <h3 align="center"><samp>Hello! I am <b><a rel="nofollow noopener noreferrer" target="_blank"> Harry Clark</a></b></samp></h3>
 <p align="center"><br>
   <samp>
