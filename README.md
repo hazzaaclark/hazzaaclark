@@ -14,6 +14,8 @@ which involve Reverse Engineering, creating Low Level Modifcations and infrastru
 
 # 🏆 Achievements:
 
+- Programmer on Sonic Riders: Tournament Edition (2024 - Present)
+
 - Computer Science Helper at Aston University (2023 - Present)
 
 - Assistant Reverse Engineer for the Sonic Heroes PC Decomp (2023 - Present)
