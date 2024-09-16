@@ -25,11 +25,3 @@ which involve Reverse Engineering, creating Low Level Modifications and infrastr
 - Edited over 100+ videos as Freelance; garnering over 1 million views (2020 - 2023)
 
 - Part of the Formula One Silverstone Team as an Engineer (2022)
-
-
-# > Languages:
-
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hazzaaclark&layout=compact&bg_color=FFFFFF" alt="Top Langs">
-</div>
