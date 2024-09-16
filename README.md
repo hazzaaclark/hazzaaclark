@@ -27,6 +27,8 @@ which involve Reverse Engineering, creating Low Level Modifcations and infrastru
 - Part of the Formula One Silverstone Team as an Engineer (2022)
 
 
+# > Languages:
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hazzaaclark&layout=compact&bg_color=FFFFFF" alt="Top Langs">
