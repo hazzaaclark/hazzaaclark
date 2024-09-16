@@ -28,5 +28,6 @@ which involve Reverse Engineering, creating Low Level Modifcations and infrastru
 
 
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hazzaaclark&layout=compact&bg_color=FFFFFF)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hazzaaclark&layout=compact&bg_color=FFFFFF" alt="Top Langs">
+</div>
