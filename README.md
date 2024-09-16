@@ -10,7 +10,7 @@
 
 I'm an aspiring Computer Architect looking to become a Doctor in my relevant field, as such my profiency lies in C/C++ and ASM. 
 I highly leverage C/ASM for my Low Level endeavours 
-which involve Reverse Engineering, creating Low Level Modifcations and infrastructures using that RE knowledge.
+which involve Reverse Engineering, creating Low Level Modifications and infrastructures using that RE knowledge.
 
 # 🏆 Achievements:
 
